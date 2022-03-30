@@ -20,7 +20,7 @@ I'm a Full-Stack Developer and Entrepreneur from Montreal, Canada.
   </div>
 </div>
 
-**About me**
+<strong>About me</strong>
 - 🏢 I'm currently working on launching my company [Oreus](https://www.oreus.ca)
 - ⚙️ I use the PERN Stack (PostgreSQL, Express, React, Node)
 - 🌍 My ultimate goal is to create a global community solving concrete environmental issues
