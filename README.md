@@ -1,4 +1,4 @@
-**Hi there 👋**
+<strong>Hi there 👋</strong>
 
 I'm a Full-Stack Developer and Entrepreneur from Montreal, Canada.
 
@@ -8,7 +8,7 @@ I'm a Full-Stack Developer and Entrepreneur from Montreal, Canada.
     <ul>
       <li>🌱 <a href="https://github.com/oreus-initiative/split.api" target="_blank" rel="noreferrer">An API to give back to users using crypto</a></li>
       <li>🔐 An Auth for Oreus</li>
-      <li>🎨 A <a href="https://github.com/oreus-initiative/ui" target="_blank" rel="noreferrer">React UI Library for Oreus</a></li>
+      <li>🎨 <a href="https://github.com/oreus-initiative/ui" target="_blank" rel="noreferrer">A React UI Library for Oreus</a></li>
     </ul>
   </div>
   <div style="flex-grow: 6">
