@@ -26,4 +26,4 @@ I'm a Full-Stack Developer and Entrepreneur from Montreal, Canada.
 - 🌍 My ultimate goal is to create a global community solving concrete environmental issues
 - 🎨 I've designed [Dominic Fournier](https://dominicfournier.com), [Oreus](https://www.oreus.ca), [Balance](https://balance.oreus.ca), [Split](https://split.oreus.ca) and more !
 - 🌱 Hoping to participate to more Open-Source projects
-- 😄 Fun fact: My main game right now is Risk of Rain 2 !
+- 😄 Fun fact: My main game right now is CoD:Warzone !
