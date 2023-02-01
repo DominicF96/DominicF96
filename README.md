@@ -1,6 +1,6 @@
 <strong>Hi there 👋</strong>
 
-I'm a Fullstack Developer and Entrepreneur from Quebec, Canada.
+I'm a Frontend Developer & Designer from Quebec, Canada.
 
 <div style="display: flex; justify-content: space-between">
   <div style="flex-grow: 6">
