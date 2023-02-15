@@ -8,6 +8,7 @@ I'm a Frontend Developer & Designer from Quebec, Canada.
     <ul>
       <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank" rel="noreferrer">Spyglass</a>; A Free Tool to Follow Antelope Transaction Traces</li>
       <li>📡 <a href="https://pinax.network" target="_blank" rel="noreferrer">Pinax's Web Application</a>; A Service for Streaming Blockchain Data</li>
+      <li>📈 Subtivity; Deep-dive into Blockchain activity</li>
     </ul>
   </div>
   <div style="flex-grow: 6">
