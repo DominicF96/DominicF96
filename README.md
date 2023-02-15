@@ -25,4 +25,4 @@ I'm a Frontend Developer & Designer from Quebec, Canada.
 - ⚙️ I mostly use Next.js, Node/Express and PostgreSQL
 - 🌍 My ultimate goal is to create a global community solving concrete environmental issues
 - 🌱 Hoping to participate to more Open-Source projects
-- 🎮 Main Games: Call of Duty Modern Warfare II, Valheim
+- 🎮 Main Games: Hogwarts Legacy ~Call of Duty Modern Warfare II, Valheim~
