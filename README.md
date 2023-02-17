@@ -21,7 +21,7 @@
 <h2 style='font-weight: bold;'>My Tools</h2>
 
 <div style='margin: 16px 0; width: 100%;'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicF96&langs_count=6&theme=dark&layout=compact" alt="Dominic's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicF96&langs_count=6&theme=jolly&layout=compact" alt="Dominic's Top Languages">
 </div>
 
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px" style='margin-right: 4px'></a>
