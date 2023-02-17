@@ -1,33 +1,3 @@
-<div style="display: flex; justify-content: flex-start">
-
-<div>
-<div style='margin: 16px 0; width: 100%;'>
-<img src="https://github-readme-stats.vercel.app/api?username=DominicF96&show_icons=true&theme=dark&count_private=true" alt="Dominic's Github Stats">
-</div>
-
-<div style='margin: 16px 0; width: 100%;'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicF96&langs_count=6&theme=dark&layout=compact" alt="Dominic's Top Languages">
-</div>
-
-<div style='border-radius: 5px; background-color: #151515; padding: 16px 24px; border: solid 1px white'>
-  <h3 style='font-weight: bold;'>Tools</h3>
-
-  <div style="margin: 16px 0;">
-  <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px" style='margin-right: 4px'></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style='margin-right: 4px'></a>
-  <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px" style='margin-right: 4px'></a>
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="40px" height="40px" style='margin-right: 4px'></a>
-  <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px" style='margin-right: 4px'></a>
-  <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px" style='margin-right: 4px'></a>
-  <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px" style='margin-right: 4px'></a>
-  <a href="https://rollupjs.org/" title="rollup.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="40px" height="40px" style='margin-right: 4px'></a>
-  </div>
-</div>
-
-</div>
-
-<div style='margin: 16px 32px; max-width: 60%;'>
-
 <h1>⚾ Dominic Fournier</h1>
 <code>Digital Craftsman (Developer/Designer)</code>
 
@@ -39,7 +9,22 @@
   <a href="https://medium.com/@DominicF96"><img src="https://img.shields.io/badge/Medium-Follow-FFC700?style=for-the-badge&logo=medium" alt="Follow me on Medium"/></a>
 </div>
 
----
+<h2 style='font-weight: bold;'>My Tools</h2>
+
+<div style='margin: 16px 0; width: 100%;'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicF96&langs_count=6&theme=dark&layout=compact" alt="Dominic's Top Languages">
+</div>
+
+
+<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://rollupjs.org/" title="rollup.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="40px" height="40px" style='margin-right: 4px'></a>
+</div>
 
 <h2>My Work</h2>
 
@@ -52,6 +37,10 @@
 </ul>
 
 <h2>About me</h2>
+
+<div style='margin: 16px 0; width: 100%;'>
+<img src="https://github-readme-stats.vercel.app/api?username=DominicF96&show_icons=true&theme=dark&count_private=true" alt="Dominic's Github Stats">
+</div>
 
 <ul>
   <li>🛣️ <a href="https://github.com/DominicF96/Roadmap">My 2023 Roadmap</a></li>
@@ -66,6 +55,3 @@
     </ol>
   </li>
 </ul>
-</div>
-
-</div>
