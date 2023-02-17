@@ -8,22 +8,6 @@
   <a href="http://www.youtube.com/channel/UCu_phIvUh8leBp5vkCyLGow?sub_confirmation=1"><img src="https://img.shields.io/badge/Youtube-Subscribe-c6538c?style=for-the-badge&logo=youtube" alt="Subscribe to my Youtube Channel"/></a>
 </div>
 
-<h2 style='font-weight: bold;'>My Tools</h2>
-
-<div style='margin: 16px 0; width: 100%;'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicF96&langs_count=6&theme=dark&layout=compact" alt="Dominic's Top Languages">
-</div>
-
-
-<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://rollupjs.org/" title="rollup.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="40px" height="40px" style='margin-right: 4px'></a>
-
 <h2>My Work</h2>
 
 <ul>
@@ -33,6 +17,21 @@
   <li>🙂 <a href="https://dominicfournier.com" target="_blank" rel="noreferrer">dominicfournier.com</a>; My personal website</li>
   <li>👴 <a href="https://portfolio2020.dominicfournier.com/" target="_blank" rel="noreferrer">Portfolio (prior to 2020)</a></li>
 </ul>
+
+<h2 style='font-weight: bold;'>My Tools</h2>
+
+<div style='margin: 16px 0; width: 100%;'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicF96&langs_count=6&theme=dark&layout=compact" alt="Dominic's Top Languages">
+</div>
+
+<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px" style='margin-right: 4px'></a>
+<a href="https://rollupjs.org/" title="rollup.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="40px" height="40px" style='margin-right: 4px'></a>
 
 <h2>About me</h2>
 
