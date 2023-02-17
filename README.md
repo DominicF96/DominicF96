@@ -23,7 +23,6 @@
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px" style='margin-right: 4px'></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px" style='margin-right: 4px'></a>
 <a href="https://rollupjs.org/" title="rollup.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="40px" height="40px" style='margin-right: 4px'></a>
-</div>
 
 <h2>My Work</h2>
 
