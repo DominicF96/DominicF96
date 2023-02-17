@@ -1,4 +1,3 @@
-<h1>⚾ Dominic Fournier</h1>
 <code>Digital Craftsman (Developer/Designer)</code>
 
 <p style="margin: 24px 0">👋 Hi there ! I'm a frontend developer with over 5 years of experience building beautiful functional websites. I've also been designing website for about 3 years now and studying UI/UX. I have the skills to bring an idea to life, from brainstorming to a final production-grade website.</p>
