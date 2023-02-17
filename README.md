@@ -38,10 +38,6 @@
 
 <h2>About me</h2>
 
-<div style='margin: 16px 0; width: 100%;'>
-<img src="https://github-readme-stats.vercel.app/api?username=DominicF96&show_icons=true&theme=dark&count_private=true" alt="Dominic's Github Stats">
-</div>
-
 <ul>
   <li>🛣️ <a href="https://github.com/DominicF96/Roadmap">My 2023 Roadmap</a></li>
   <li>⚙️ I mostly use Next.js, Node/Express and PostgreSQL</li>
