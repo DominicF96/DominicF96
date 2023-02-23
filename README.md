@@ -5,7 +5,6 @@
 <div style="margin: 16px 0">
   <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%23c6538c?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDominicF96"><img src="https://img.shields.io/badge/DominicF96-Follow-c6538c?style=for-the-badge&logo=github" alt="Follow me on Github"/></a>
-  <a href="https://medium.com/@DominicF96"><img src="https://img.shields.io/badge/Medium-Follow-c6538c?style=for-the-badge&logo=medium" alt="Follow me on Medium"/></a>
 </div>
 
 <h2>My Work</h2>
