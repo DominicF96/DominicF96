@@ -3,9 +3,9 @@
 <p style="margin: 24px 0">👋 Hi there ! I'm a frontend developer with over 5 years of experience building beautiful functional websites. I've also been designing website for about 3 years now and studying UI/UX. I have the skills to bring an idea to life, from brainstorming to a final production-grade website.</p>
 
 <div style="margin: 16px 0">
+  <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%23c6538c?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDominicF96"><img src="https://img.shields.io/badge/DominicF96-Follow-c6538c?style=for-the-badge&logo=github" alt="Follow me on Github"/></a>
   <a href="https://medium.com/@DominicF96"><img src="https://img.shields.io/badge/Medium-Follow-c6538c?style=for-the-badge&logo=medium" alt="Follow me on Medium"/></a>
-  <a href="http://www.youtube.com/channel/UCu_phIvUh8leBp5vkCyLGow?sub_confirmation=1"><img src="https://img.shields.io/badge/Youtube-Subscribe-c6538c?style=for-the-badge&logo=youtube" alt="Subscribe to my Youtube Channel"/></a>
 </div>
 
 <h2>My Work</h2>
