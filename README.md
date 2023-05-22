@@ -19,10 +19,6 @@
 
 <h2 style='font-weight: bold;'>My Tools</h2>
 
-<div style='margin: 16px 0; width: 100%;'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicF96&langs_count=6&theme=dracula&layout=compact" alt="Dominic's Top Languages">
-</div>
-
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px" style='margin-right: 4px'></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style='margin-right: 4px'></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px" style='margin-right: 4px'></a>
