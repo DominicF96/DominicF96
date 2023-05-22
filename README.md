@@ -31,7 +31,6 @@
 <h2>About me</h2>
 
 <ul>
-  <li>🛣️ <a href="https://github.com/DominicF96/Roadmap">My 2023 Roadmap</a></li>
   <li>🌍 My ultimate goal is to create a global community solving concrete environmental issues</li>
   <li>🌱 Looking to participate to more Open-Source projects</li>
   <li> 🎮 Main Games
