@@ -1,6 +1,7 @@
 <code>Digital Craftsman (PO/Designer/Developer)</code>
 
-<p style="margin: 24px 0">👋 Hi there ! I'm a frontend developer since 2018 building beautiful functional websites. I've also been designing website since 2020 and studying UI/UX. More recently (2022), I've been scaling my skills of Product Owner. I have the skills to bring an idea to life, from brainstorming to a final production-grade website.</p>
+<p style="margin: 24px 0">👋 Hi there !</p>
+<p style="margin: 24px 0">I'm a frontend developer since 2018 building beautiful functional websites. I've also been designing website since 2020 and studying UI/UX. More recently (2022), I've been scaling my skills of Product Owner. I have the skills to bring an idea to life, from brainstorming to a final production-grade website.</p>
 
 <div style="margin: 16px 0">
   <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%23c6538c?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
