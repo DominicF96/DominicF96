@@ -4,8 +4,8 @@
 <p style="margin: 24px 0">I'm a frontend developer since 2017 building beautiful functional websites. I've also been designing website more seriously since 2020 and studying UI/UX. More recently (2022), I've been scaling my skills of Product Owner. I have the skills to bring an idea to life, from brainstorming to a final production-grade website.</p>
 
 <div style="margin: 16px 0">
-  <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%23c6538c?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDominicF96"><img src="https://img.shields.io/badge/DominicF96-Follow-c6538c?style=for-the-badge&logo=github" alt="Follow me on Github"/></a>
+  <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%2357d12e?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDominicF96"><img src="https://img.shields.io/badge/DominicF96-Follow-57d12e?style=for-the-badge&logo=github" alt="Follow me on Github"/></a>
 </div>
 
 <h2>My Work</h2>
