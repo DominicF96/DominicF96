@@ -11,9 +11,9 @@
 <h2>My Work</h2>
 
 <ul>
+    <li>📡 <a href="https://pinax.network" target="_blank" rel="noreferrer">Pinax's Web Application</a>; A Service for Streaming Blockchain Data</li>
   <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank" rel="noreferrer">Spyglass</a>; A Free Tool to Follow Antelope Transaction Traces</li>
-  <li>📡 <a href="https://pinax.network" target="_blank" rel="noreferrer">Pinax's Web Application</a>; A Service for Streaming Blockchain Data</li>
-  <li>📈 Subtivity; Deep-dive into Blockchain activity (Coming Soon)</li>
+  <li>📈 <a href="https://oreus.ca" target="_blank" rel="noreferrer">Oreus</a>; My Co-Founded Software Services Company</li>
   <li>🙂 <a href="https://dominicfournier.com" target="_blank" rel="noreferrer">dominicfournier.com</a>; My personal website</li>
   <li>👴 <a href="https://portfolio2020.dominicfournier.com/" target="_blank" rel="noreferrer">Portfolio (prior to 2020)</a></li>
 </ul>
