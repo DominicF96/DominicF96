@@ -39,7 +39,7 @@ _See my [Toolbox](https://github.com/DominicF96/toolbox) for more._
   <li>🌱 Looking to participate to more Open-Source projects</li>
   <li> 🎮 Main Games
     <ol>
-      <li>Baldur's Gate</li>
+      <li>Baldur's Gate 3</li>
       <li>Cities Skyline</li>
       <li>Valorant</li>
       <li>No Man's Sky</li>
