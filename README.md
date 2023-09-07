@@ -29,6 +29,8 @@
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px" style='margin-right: 4px'></a>
 <a href="https://rollupjs.org/" title="rollup.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="40px" height="40px" style='margin-right: 4px'></a>
 
+_See my [Toolbox](https://github.com/DominicF96/toolbox) for more._
+
 <h2>About me</h2>
 
 <ul>
