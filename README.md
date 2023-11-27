@@ -11,7 +11,7 @@
 <h2>My Work</h2>
 
 <ul>
-    <li>📡 <a href="https://pinax.network" target="_blank" rel="noreferrer">Pinax's Web Application</a>; A Service for Streaming Blockchain Data</li>
+  <li>📡 <a href="https://pinax.network" target="_blank" rel="noreferrer">Pinax's Web Application</a>; A Service for Streaming Blockchain Data</li>
   <li>📈 <a href="https://oreus.ca" target="_blank" rel="noreferrer">Oreus</a>; My Co-Founded Software Services Company</li>
   <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank" rel="noreferrer">Spyglass</a>; A Free Tool to Follow Antelope Transaction Traces</li>
   <li>🙂 <a href="https://dominicfournier.com" target="_blank" rel="noreferrer">dominicfournier.com</a>; My personal website</li>
@@ -30,19 +30,3 @@
 <a href="https://rollupjs.org/" title="rollup.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="40px" height="40px" style='margin-right: 4px'></a>
 
 _See my [Toolbox](https://github.com/DominicF96/toolbox) for more._
-
-<h2>About me</h2>
-
-<ul>
-  <li>🛣️ <a href="https://github.com/DominicF96/Roadmap">My 2023 Roadmap</a></li>
-  <li>🌍 My ultimate goal is to create a global community solving concrete environmental issues</li>
-  <li>🌱 Looking to participate to more Open-Source projects</li>
-  <li> 🎮 Main Games
-    <ol>
-      <li>⚔️ Baldur's Gate 3</li>
-      <li>🏙️ Cities Skyline</li>
-      <li>🔫 Counter Strike 2</li>
-      <li>🧑‍🚀 No Man's Sky</li>
-    </ol>
-  </li>
-</ul>
