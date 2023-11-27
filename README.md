@@ -41,7 +41,7 @@ _See my [Toolbox](https://github.com/DominicF96/toolbox) for more._
     <ol>
       <li>⚔️ Baldur's Gate 3</li>
       <li>🏙️ Cities Skyline</li>
-      <li>🔫 Valorant</li>
+      <li>🔫 Counter Strike 2</li>
       <li>🧑‍🚀 No Man's Sky</li>
     </ol>
   </li>
