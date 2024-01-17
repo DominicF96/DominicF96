@@ -1,4 +1,4 @@
-<code>Digital Craftsman (PO / Developer / Designer)</code>
+<code>Digital Craftsman (PO / Designer / Developer )</code>
 
 <p style="margin: 24px 0">👋 Hi there !</p>
 <p style="margin: 24px 0">I'm a frontend developer since 2017 building beautiful functional websites. I've also been refining my design skills since 2020 and studying UI/UX. More recently (2023), I've been scaling my skills of Product Owner. I have the skills to bring an idea to life, from product requirements to a final polished web-based application or website.</p>
