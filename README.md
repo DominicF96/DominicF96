@@ -11,14 +11,15 @@
 <h2>My Work</h2>
 
 <ul>
-  <li>📡 <a href="https://pinax.network" target="_blank">Pinax's Website & App</a>; A Platform for Blockchain Data Services</li>
-  <li>📈 <a href="https://oreus.ca" target="_blank">Oreus</a>; My Co-Founded Software Services Company</li>
-  <li>🔍 <a href="https://substreams.dev" target="_blank">Substreams.dev</a>; A Susbtreams Registry I'm currently redesigning & updating</li>
-  <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank">Spyglass</a>; A Free Tool to Follow Antelope Transaction Traces</li>
-  <li>🙂 <a href="https://dominicfournier.com" target="_blank">dominicfournier.com</a>; My personal website, just updated, content is WIP!</li>
-  <li>🪙 <a href="https://kingstate.ca/" target="_blank">Kingstate</a>; Mortgage Toolsuite</li>
-  <li>👴 <a href="https://portfolio2022.dominicfournier.com/" target="_blank">Portfolio (prior to 2022)</a></li>
-  <li>👴 <a href="https://portfolio2020.dominicfournier.com/" target="_blank">Portfolio (prior to 2020)</a></li>
+  <li>📡 <a href="https://pinax.network" target="_blank">Pinax's Website & App</a> • A Platform for Blockchain Data Services</li>
+  <li>📈 <a href="https://oreus.ca" target="_blank">Oreus</a> • My Co-Founded Software Services Company</li>
+  <li>🔍 <a href="https://substreams.dev" target="_blank">Substreams.dev</a> • A Susbtreams Registry I'm currently redesigning & updating</li>
+  <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank">Spyglass</a> • A Free Tool to Follow Antelope Transaction Traces</li>
+  <li>🙂 <a href="https://dominicfournier.com" target="_blank">dominicfournier.com</a> • My personal website, just updated, content is WIP!</li>
+  <li>🪙 <a href="https://kingstate.ca/" target="_blank">Kingstate</a> • Mortgage Toolsuite</li>
+  <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • Aborted Oreus Personal Finances App</li>
+  <li>👴 <a href="https://portfolio2022.dominicfournier.com" target="_blank">Previous Portfolio</a> • Prior to 2024</li>
+  <li>👴 <a href="https://portfolio2020.dominicfournier.com" target="_blank">Previous Portfolio</a> • Prior to 2022</li>
 </ul>
 
 <h2 style='font-weight: bold;'>My Tools</h2>
