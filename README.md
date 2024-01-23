@@ -17,7 +17,7 @@
   <li>🔍 <a href="https://substreams.dev" target="_blank">Substreams.dev</a> • A Susbtreams Registry I'm currently redesigning & updating</li>
   <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank">Spyglass</a> • A Free Tool to Follow Antelope Transaction Traces</li>
   <li>🪙 <a href="https://kingstate.ca/" target="_blank">Kingstate</a> • Mortgage Toolsuite</li>
-  <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • Aborted Oreus Personal Finances App</li>
+  <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • My First Designed Product; Oreus Personal Finances App</li>
   <li>👴 <a href="https://portfolio2022.dominicfournier.com" target="_blank">Previous Portfolio</a> • A More Ambitious Portfolio</li>
   <li>👴 <a href="https://portfolio2020.dominicfournier.com" target="_blank">Previous Portfolio</a> • My First Portfolio</li>
 </ul>
