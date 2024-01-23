@@ -18,7 +18,7 @@
   <li>🙂 <a href="https://dominicfournier.com" target="_blank">dominicfournier.com</a> • My personal website, just updated, content is WIP!</li>
   <li>🪙 <a href="https://kingstate.ca/" target="_blank">Kingstate</a> • Mortgage Toolsuite</li>
   <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • Aborted Oreus Personal Finances App</li>
-  <li>👴 <a href="https://portfolio2022.dominicfournier.com" target="_blank">Previous Portfolio</a> • An up</li>
+  <li>👴 <a href="https://portfolio2022.dominicfournier.com" target="_blank">Previous Portfolio</a> • A More Ambitious Portfolio</li>
   <li>👴 <a href="https://portfolio2020.dominicfournier.com" target="_blank">Previous Portfolio</a> • My First Portfolio</li>
 </ul>
 
