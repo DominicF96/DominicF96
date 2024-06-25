@@ -21,15 +21,3 @@
   <li>👴 <a href="https://portfolio2022.dominicfournier.com" target="_blank">Previous Portfolio</a> • A More Ambitious Portfolio</li>
   <li>👴 <a href="https://portfolio2020.dominicfournier.com" target="_blank">Previous Portfolio</a> • My First Portfolio</li>
 </ul>
-
-<h2 style='font-weight: bold;'>My Tools</h2>
-
-<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px" style='margin-right: 4px'></a>
-<a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px" style='margin-right: 4px'></a>
-
-_See my [Toolbox](https://github.com/DominicF96/toolbox) for more._
