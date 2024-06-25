@@ -1,7 +1,7 @@
 <code>Digital Craftsman (PO / Designer / Developer )</code>
 
 <p style="margin: 24px 0">👋 Hi there !</p>
-<p style="margin: 24px 0">I'm a frontend developer since 2017 building beautiful functional websites. I've also been refining my design skills since 2020 and studying UI/UX. More recently (2023), I've been scaling my skills of Product Owner. I have the skills to bring an idea to life, from product requirements to a final polished web-based application or website.</p>
+<p style="margin: 24px 0">With over seven years of experience in product design and frontend development, I specialize in coordinating agile teams to build intuitive, feature-rich dashboards and websites. As a humble and optimistic UX Design advocate, I excel in creating holistic user journeys, from high-level strategy to UI details, and am passionate about complex Design Systems and User-Centered Design. Committed to continuous improvement and mentoring others, I thrive in dynamic environments and possess a strong desire to innovate and enhance user experiences.</p>
 
 <div style="margin: 16px 0">
   <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%2357d12e?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
