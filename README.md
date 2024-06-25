@@ -19,5 +19,5 @@
   <li>🪙 <a href="https://kingstate.ca/" target="_blank">Kingstate</a> • Mortgage Toolsuite, initial design</li>
   <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • My First Fully Designed Product; Oreus Personal Finances App</li>
   <li>👴 <a href="https://portfolio2022.dominicfournier.com" target="_blank">Previous Portfolio</a> • A More Ambitious Portfolio</li>
-  <li>👴 <a href="https://portfolio2020.dominicfournier.com" target="_blank">Previous Portfolio</a> • My First Portfolio</li>
+  <li>👶 <a href="https://portfolio2020.dominicfournier.com" target="_blank">Previous Portfolio</a> • My First Portfolio</li>
 </ul>
