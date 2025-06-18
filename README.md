@@ -17,7 +17,7 @@ Currently working at Cactusoft Construction as Lead UX Designer & on Monark as C
   <li>📡 <a href="https://pinax.network" target="_blank">Pinax's Website & App</a> • A Platform for Blockchain Data Services</li>
   <li>🦋 <a href="https://monark.io" target="_blank">Monark's Website</a> • Co-Founded Web3 Incubator</li>
   <li>🏦 <a href="https://anthonyking.ca" target="_blank">Anthony King</a> • Mortgage Broker Website</li>
-  <li>📈 Oreus • Co-Founded Software Services Company (Closed)</li>
+  <li>📈 Oreus (Closed) • Co-Founded Software Services Company</li>
   <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank">Spyglass</a> • A Free Tool to Follow Antelope Transaction Traces, design and development</li>
   <li>🏦 <a href="https://kingstate.ca/" target="_blank">Kingstate</a> • Mortgage Toolsuite, initial design</li>
   <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • My First Fully Designed Product; Oreus Personal Finances App</li>
