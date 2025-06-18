@@ -1,4 +1,4 @@
-<code>Digital Craftsman (PO / Designer / Developer )</code>
+<code>Digital Craftsman ( Developer / Designer / PO )</code>
 
 <p style="margin: 24px 0">👋 Hi there !</p>
 <p style="margin: 24px 0">With over seven years of experience in product design and frontend development, I specialize in coordinating agile teams to build intuitive, feature-rich dashboards and websites. As a humble and optimistic UX Design advocate, I excel in creating holistic user journeys, from high-level strategy to UI details, and am passionate about complex Design Systems and User-Centered Design. Committed to continuous improvement and mentoring others, I thrive in dynamic environments and possess a strong desire to innovate and enhance user experiences.</p>
@@ -10,12 +10,14 @@
 
 <h2>My Work</h2>
 
+Currently working at Cactusoft Construction as Lead UX Designer & on Monark as CTO.
+
 <ul>
   <li>🥳 <a href="https://dominicfournier.com" target="_blank">dominicfournier.com</a> • My personal website</li>
   <li>📡 <a href="https://pinax.network" target="_blank">Pinax's Website & App</a> • A Platform for Blockchain Data Services</li>
-  <li>📈 <a href="https://oreus.ca" target="_blank">Oreus</a> • My Co-Founded Software Services Company</li>
-  <li>🏦 <a href="https://anthonyking.ca" target="_blank">Anthony King</a> • Mortgage Broker Website</li>
   <li>🦋 <a href="https://monark.io" target="_blank">Monark's Website</a> • A Platform for a Decentralized Community</li>
+  <li>🏦 <a href="https://anthonyking.ca" target="_blank">Anthony King</a> • Mortgage Broker Website</li>
+  <li>📈 Oreus • My Co-Founded Software Services Company</li>
   <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank">Spyglass</a> • A Free Tool to Follow Antelope Transaction Traces, design and development</li>
   <li>🏦 <a href="https://kingstate.ca/" target="_blank">Kingstate</a> • Mortgage Toolsuite, initial design</li>
   <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • My First Fully Designed Product; Oreus Personal Finances App</li>
