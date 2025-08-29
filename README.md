@@ -18,7 +18,4 @@ Currently working at Cactusoft Construction as Lead UX Designer & on Monark as C
   <li>📈 Oreus (Closed) • Co-Founded Software Services Company</li>
   <li>🕵️‍♂️ <a href="https://spyglass.network" target="_blank">Spyglass</a> • A Free Tool to Follow Antelope Transaction Traces, design and development</li>
   <li>🏦 <a href="https://kingstate.ca/" target="_blank">Kingstate</a> • Mortgage Toolsuite, initial design</li>
-  <li>📊 <a href="https://balance.oreus.dominicfournier.com" target="_blank">Oreus Balance</a> • My First Fully Designed Product; Oreus Personal Finances App</li>
-  <li>👴 <a href="https://portfolio2022.dominicfournier.com" target="_blank">Previous Portfolio</a> • A More Ambitious Portfolio</li>
-  <li>👶 <a href="https://portfolio2020.dominicfournier.com" target="_blank">Previous Portfolio</a> • My First Portfolio</li>
 </ul>
