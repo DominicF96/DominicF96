@@ -1,5 +1,5 @@
-<p style="margin: 24px 0">👋 Hi there !</p>
-<p style="margin: 24px 0">I'm Dominic. With almost a decade of experience in frontend development and product design, I specialize in creating intuitive, feature-rich dashboards and websites. I'm passionate about User-Centered Design, taking pride in creating holistic user journeys from strategy to UI details. I'm committed to continuous improvement and mentoring others, thriving in dynamic environments where I can innovate and build.</p>
+<p style="margin: 24px 0">👋 Hi there, I'm Dominic.</p>
+<p style="margin: 24px 0"> With almost a decade of experience in frontend development and product design, I specialize in creating intuitive, feature-rich dashboards and websites. I'm passionate about User-Centered Design, taking pride in creating holistic user journeys from strategy to UI details. I'm committed to continuous improvement and mentoring others, thriving in dynamic environments where I can innovate and build.</p>
 
 <div style="margin: 16px 0">
   <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%2357d12e?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
