@@ -1,5 +1,5 @@
 <p style="margin: 24px 0">👋 Hi there !</p>
-<p style="margin: 24px 0">I'm Dominic, web developer from Canada. With almost 10 years of experience in Frontend development and Product Design, I specialize in building intuitive, feature-rich dashboards & websites. As a humble and optimistic UX Design advocate, I take pride in creating holistic user journeys, from high-level strategy to UI details, and am passionate about complex Design Systems and User-Centered Design. Committed to continuous improvement and mentoring others, I thrive in dynamic environments and possess a strong desire to innovate and build.</p>
+<p style="margin: 24px 0">With almost a decade of experience in frontend development and product design, I specialize in creating intuitive, feature-rich dashboards and websites. I'm passionate about User-Centered Design, taking pride in creating holistic user journeys from strategy to UI details. I'm committed to continuous improvement and mentoring others, thriving in dynamic environments where I can innovate and build.</p>
 
 <div style="margin: 16px 0">
   <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%2357d12e?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
