@@ -8,7 +8,7 @@
 
 <h2>My Work</h2>
 
-Currently working at [Cactusoft Construction](https://cactusoft.app/) as Lead UX Designer & on [Monark](https://www.monark.io/en) as CTO.
+Currently working at [Cactusoft Construction](https://cactusoft.app/) as Lead UX Designer & on [Monark](https://www.monark.io/en) as a contractor.
 
 <ul>
   <li>🥳 <a href="https://dominicfournier.com" target="_blank">dominicfournier.com</a> • My personal website</li>
