@@ -1,6 +1,7 @@
 <p style="margin: 24px 0;"><strong>👋 I'm Dominic, a Product Manager and Design Lead based in Québec City.</strong></p>
 <p style="margin: 24px 0">Ten years across product, design and frontend development. I own roadmaps and set the design quality bar, and I stay close enough to the code to prototype in it, push back on feasibility claims, and build my own tooling. Most of that runs through AI-assisted and agentic workflows now.</p>
-<p style="margin: 24px 0">I've led a frontend team, run hiring, mentored junior devs, and supervised four capstone cohorts. Co-founded two companies. I like design systems, accessibility, and work that still holds up six months after the demo.</p>
+<p style="margin: 24px 0">Co-founded two companies. Supervised 7 capstone cohorts from uOttawa, Polytechnique of Montreal, UQO, UQAC, led a team of 5 developers and mentored junior devs.</p>
+<p style="margin: 24px 0">Mostly TypeScript, React, Next.js and Figma.</p>
 
 <div style="margin: 16px 0">
   <a href="https://linktr.ee/dominicf96"><img src="https://img.shields.io/badge/DominicF96-Find_Me-%2357d12e?style=for-the-badge&logo=linktree" alt="My Linktree"/></a>
