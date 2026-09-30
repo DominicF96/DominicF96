@@ -1,4 +1,4 @@
-<p><strong>👋 I'm Dominic, a Product Manager and Design Lead based in Québec City.</strong></p>
+<p><strong>👋 I'm Dominic, a Product Manager and Design Lead based in Quebec.</strong></p>
 <p>Ten years across product, design and frontend development. I own roadmaps and set the design quality bar, and I stay close enough to the code to prototype in it, push back on feasibility claims, and build my own tooling. Most of that runs through AI-assisted and agentic workflows now.</p>
 <p>Co-founded two companies, mentored junior developers, and helped multiple development teams raise the quality bar across their products and deliverables. Supervised 10+ capstone cohorts from uOttawa, Polytechnique Montréal, UQO and UQAC.</p>
 <p>Working with TypeScript, Node, React, Next, Figma and Agentic automation.</p>
